@@ -22,6 +22,12 @@
 				<a class="ml-4 btn btn-sm variant-ghost-surface" href="presentation" rel="noreferrer"
 					>Presentation</a
 				>
+				<a class="ml-4 btn btn-sm variant-ghost-surface" href="blog" rel="noreferrer"
+					>Blog</a
+				>
+				<a class="ml-4 btn btn-sm variant-ghost-surface" href="jeux" rel="noreferrer"
+					>Jeux</a
+				>
 			</svelte:fragment>
 			<svelte:fragment slot="trail">
 				<a
